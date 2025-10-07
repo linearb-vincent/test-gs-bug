@@ -4,7 +4,10 @@ A full-stack demo app used to showcase `gitStream` automations like AI, `codeExp
 
 ### 🗂️ Structure
 
-- `frontend/` – HTML/JS UI and NodeJS proxy
+- `frontend/` – HTML/JS UI and NodeJS pro
+-
+-
+- xy
 - `services/auth-python/` – Auth (FastAPI)
 - `services/billing-csharp/` – Billing (.NET Core)
 - `services/orders-java/` – Orders (Spring Boot)
@@ -44,3 +47,4 @@ graph TD
 docker-compose up --build
 ```
 Open a browser to http://localhost:3000/
+
